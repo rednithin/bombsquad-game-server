@@ -1,0 +1,6 @@
+version: "3"
+services:
+  bombsquad-game-server:
+    build: .
+    ports:
+      - "43210:43210"
