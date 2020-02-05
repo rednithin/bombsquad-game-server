@@ -19,4 +19,4 @@ config['maxPartySize'] = 6
 # config['playlistCode'] = 1242
 " > config.py &&
 
-./bombsquad_server
+python2.7 bombsquad_server
