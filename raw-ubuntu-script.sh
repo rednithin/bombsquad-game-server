@@ -1,11 +1,11 @@
 sudo apt-get update &&
 sudo apt-get install python2.7 libpython2.7 -y --no-install-recommends &&
 
-wget https://files.ballistica.net/bombsquad/builds/BombSquad_Server_Linux_64bit_1.4.150.tar.gz &&
-tar -xvf BombSquad_Server_Linux_64bit_1.4.150.tar.gz &&
+wget https://files.ballistica.net/bombsquad/builds/BombSquad_Server_Linux_64bit_1.5.10.tar.gz &&
+tar -xvf BombSquad_Server_Linux_64bit_1.5.10.tar.gz &&
 
 
-cd BombSquad_Server_Linux_64bit_1.4.150 &&
+cd BombSquad_Server_Linux_64bit_1.5.10 &&
 
 echo "
 # place any of your own overrides here.
